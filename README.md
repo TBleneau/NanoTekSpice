@@ -42,7 +42,7 @@ The Special Components :
 | -----------------: | ------------------------------------------------------------------------------------------------ |
 | **input**          | a component with a single pin directly linked to the command line. This value must be 0 or 1     |
 | **output**         | a component with a single pin that writes its state to the standard output after each simulation |
-| **clock* *         | a component that works like an input except its value is inverted after each simulation          |
+| **clock**          | a component that works like an input except its value is inverted after each simulation          |
 | **true**           | a component with a single pin that is always TRUE                                                |
 | **false**          | a component with a single pin that is always FALSE                                               |
 
